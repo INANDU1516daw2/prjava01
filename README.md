@@ -1,4 +1,4 @@
-**Pràctica 1a) Bitbucket: servei web d'hospedatge de projectes utilizant el sistema de control de versions Git**
+**Pràctica 1b) Github: servei web d'hospedatge de projectes utilizant el sistema de control de versions Git**
 
 - Ingemar Andrade Duran
 
